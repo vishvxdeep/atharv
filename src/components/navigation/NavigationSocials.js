@@ -5,7 +5,7 @@ const NavigationSocials = () => {
   return (
     <section className="navigation__socials">
       <a
-        href="https://www.linkedin.com/in/vishvadeepkamble07/"
+        href="linkedin.com/in/atharv-hiremath-8242b62a3"
         target="_blank"
         rel="noreferrer"
       >
@@ -13,7 +13,7 @@ const NavigationSocials = () => {
       </a>
 
       <a
-        href="https://www.github.com/vishvxdeep/"
+        href="https://www.github.com/Hero1528/"
         target="_blank"
         rel="noreferrer"
       >

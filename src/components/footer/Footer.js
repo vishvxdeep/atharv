@@ -6,7 +6,7 @@ const Footer = () => {
       <a
         href="#"
         rel="noreferrer">
-        Designed & Built by Vishvadeep Kamble
+        Designed & Built by Atharv Hiremath
       </a>
     </article>
   );
